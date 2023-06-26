@@ -10,6 +10,7 @@ This GitHub repository documents my progress and shares insights from the "Data 
    - [Task 2: Choosing the Right Visuals](#task-2-choosing-the-right-visuals)
    - [Task 3: Creating Effective Visuals](#task-3-creating-effective-visuals)
    - [Task 4: Creating a Dashboard](#task-4-creating-a-dashboard)
+3. [Certificate of Completion](#certificate-of-completion)
 
 ## Programme Duration and Role
 
@@ -45,7 +46,7 @@ ps. There was no deliverable for this task, only a set of questions and quizzes 
 
 **Objective:** Create informative and actionable visuals using `Tableau` to aid in executive decision-making, focusing on revenue trends, country-specific revenues, customer segmentation, and product demand
 
-I used the `Online Retail Data Set.xlsx` to complete this task.
+I used the `Online Retail Data Set.xlsx` to complete this task. All these visualizations are available in the repository under Task_3 in the form of a Tableau Workbook `(MyWorkbook.twbx)`
 
 **What I learned in this task:**
 - Navigating and Using the `Tableau interface`
@@ -72,9 +73,22 @@ I used the `Online Retail Data Set.xlsx` to complete this task.
 - How to create a filled map visualization in Tableau
 - Applying filters to exclude specific data and adding and customizing labels in Tableau
 
-*Below is the map chart that highlights each country and shows the total number of units sold by country*
+*Below is the map chart that highlights each country and shows the total number of units sold by country `(Question 4)`*
 ![Alt text](img/map.png)
 
 
-### Task 4: Creating a Dashboard
-(More details will be added)
+### Task 4: Communicating Insights and Analysis
+
+**Objective:** Effectively communicate the results of a data analysis, including data cleanup, visualization, and key insights, to the CEO and CMO, focusing on business expansion opportunities, through a clear and concise video presentation.
+
+**What I learned in this task:**
+- How to communicate data analyses in a simple and understandable way
+- How to use Tableau's Story feature to create a sequence of visualizations that work together to convey a message and make the presenation more interactive.
+- Presentation Skills.
+
+*Below is the link to the video presentation and it is also available under the Task_4 sub-directory:*
+[Link](https://drive.google.com/drive/folders/17oCTj65-EEodEbGDBSU4SCevyYGYAsn5?usp=drive_link)
+
+
+## Certificate of Completion
+[!Alt text](img/Tata_DatVis_Certificate.jpg)
