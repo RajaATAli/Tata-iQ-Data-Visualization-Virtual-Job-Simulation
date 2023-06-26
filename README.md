@@ -86,9 +86,9 @@ I used the `Online Retail Data Set.xlsx` to complete this task. All these visual
 - How to use Tableau's Story feature to create a sequence of visualizations that work together to convey a message and make the presenation more interactive.
 - Presentation Skills.
 
-*Below is the link to the video presentation and it is also available under the Task_4 sub-directory:*
+*Below is the link to the video presentation for Task 4:*
 [Link](https://drive.google.com/drive/folders/17oCTj65-EEodEbGDBSU4SCevyYGYAsn5?usp=drive_link)
 
 
 ## Certificate of Completion
-[!Alt text](img/Tata_DatVis_Certificate.jpg)
+![Alt text](img/Tata_DatVis_Certificate.jpg)
