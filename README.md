@@ -54,8 +54,27 @@ I used the `Online Retail Data Set.xlsx` to complete this task.
 - Creating calculated fields and parameters in Tableau
 - Interpreting line charts and recognizing trends in data
 
-*Below is the time series visual of the 2011 revenue data showing each month:*
+*Below is the time series visual of the 2011 revenue data showing each month `(Question 1)`:*
 ![Alt text](img/image.png)
+
+- Creating and customizing side-by-side bar charts in Tableau
+- Implementing advanced filters like filtering the top 10 items in a category and excluding specific items from a visualization.
+
+*Below is the side-by-side bar chart of the top 10 countries generating the highest revenue, excluding the UK `(Question 2)`:*
+![Alt text](img/top10.png)
+
+- Filtering Data by removing `null values` and applying a `Top N` filter to the data
+- Sorting data and creating bar charts
+
+*Below is the bar chart of the top 10 customers generating the highest revenue in descending order `(Question 3)`:*
+![Alt text](img/customer.png)
+
+- How to create a filled map visualization in Tableau
+- Applying filters to exclude specific data and adding and customizing labels in Tableau
+
+*Below is the map chart that highlights each country and shows the total number of units sold by country*
+![Alt text](img/map.png)
+
 
 ### Task 4: Creating a Dashboard
 (More details will be added)
