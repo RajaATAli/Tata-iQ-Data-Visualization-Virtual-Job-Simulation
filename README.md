@@ -42,7 +42,20 @@ ps. There was no deliverable for this task, only a set of questions and quizzes 
 
 
 ### Task 3: Creating Effective Visuals
-(More details will be added)
+
+**Objective:** Create informative and actionable visuals using `Tableau` to aid in executive decision-making, focusing on revenue trends, country-specific revenues, customer segmentation, and product demand
+
+I used the `Online Retail Data Set.xlsx` to complete this task.
+
+**What I learned in this task:**
+- Navigating and Using the `Tableau interface`
+- `Data cleaning and preparation` using Tableau, by implementing `filters` at the data source level for consistency across all visualizations.
+- Manipulating Time-series data using Tableau
+- Creating calculated fields and parameters in Tableau
+- Interpreting line charts and recognizing trends in data
+
+*Below is the time series visual of the 2011 revenue data showing each month:*
+![Alt text](img/image.png)
 
 ### Task 4: Creating a Dashboard
 (More details will be added)
