@@ -11,7 +11,7 @@ This GitHub repository documents my progress and shares insights from the "Data 
    - [Task 1: Framing the Business Scenario](#task-1-framing-the-business-scenario)
    - [Task 2: Choosing the Right Visuals](#task-2-choosing-the-right-visuals)
    - [Task 3: Creating Effective Visuals](#task-3-creating-effective-visuals)
-   - [Task 4: Creating a Dashboard](#task-4-creating-a-dashboard)
+   - [Task 4: Communicating Insights and Analysis](#task-4-communicating-insights-and-analysis)
 3. [Certificate of Completion](#certificate-of-completion)
 
 ## Programme Duration and Role
