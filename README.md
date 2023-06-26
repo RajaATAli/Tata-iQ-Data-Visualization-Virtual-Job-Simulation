@@ -87,7 +87,7 @@ I used the `Online Retail Data Set.xlsx` to complete this task. All these visual
 
 **What I learned in this task:**
 - How to communicate data analyses in a simple and understandable way
-- How to use Tableau's Story feature to create a sequence of visualizations that work together to convey a message and make the presenation more interactive.
+- How to use Tableau's Story feature and Dashboards to create a sequence of visualizations that work together to convey a message and make the presenation more interactive.
 - Presentation Skills.
 
 *Below is the link to the video presentation for Task 4:*
