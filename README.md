@@ -1,5 +1,7 @@
 # Tata Insights and Quants Data Visualization Virtual Job Simulation
 
+![Alt text](img/download.png)
+
 This GitHub repository documents my progress and shares insights from the "Data Visualisation: Empowering Business with Effective Insights" Virtual Experience Programme. This programme is offered by Tata Insights and Quants (Tata iQ) through Forage.
 
 ## Table of Contents
@@ -13,6 +15,8 @@ This GitHub repository documents my progress and shares insights from the "Data 
 3. [Certificate of Completion](#certificate-of-completion)
 
 ## Programme Duration and Role
+
+![Alt text](img/logo.jpeg)
 
 Over the course of `one week`, I played the role of a `Data Visualization Analyst` at Tata iQ. This programme provided me with the opportunity to address the needs of various stakeholders, interact with end-users, understand their objectives, and create dashboards or visualizations to help them derive valuable insights from their data.
 
